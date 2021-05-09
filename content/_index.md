@@ -1,5 +1,5 @@
 ---
-title: 'bu1k.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'bu1k.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "bu1k.com is under construction."
 ---
 
